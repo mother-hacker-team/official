@@ -255,7 +255,7 @@ fieldset[disabled] .btn-theme {
 .btn-white-bg:focus,
 .btn-white-bg:hover {
     color: #fff;
-    background: #ffb806;
+    background: #1283be;
     border-color: transparent;
 }
 .btn-white-brd {
@@ -378,7 +378,7 @@ fieldset[disabled] .btn-theme {
     z-index: 1;
     background: url(../img/1920x1080/01.png) center center no-repeat;
     background-size: cover;
-    padding: 250px 0 200px;
+    padding: 210px 0 160px;
 }
 .promo-block:before {
     position: absolute;
@@ -679,9 +679,9 @@ fieldset[disabled] .btn-theme {
     position: absolute;
     top: 45px;
     left: 0;
-    width: 9px;
+    width: 8px;
     height: 2px;
-    background: #17bed2;
+    background: #2196f3;
     opacity: 0;
     transition-duration: 0.4s;
     transition-property: all;
@@ -999,8 +999,8 @@ fieldset[disabled] .btn-theme {
     padding-bottom: 80px;
 }
 .content-lg {
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding-top: 75px;
+    padding-bottom: 75px;
 }
 .full-width {
     width: 100%;
